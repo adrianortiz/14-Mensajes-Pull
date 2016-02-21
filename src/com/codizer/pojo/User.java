@@ -36,7 +36,7 @@ public class User {
 	
 	/**
 	 * Getter para nombre de User
-	 * @return
+	 * @return nombre
 	 */
 	public String getNombre() {
 		return nombre;
